@@ -17,7 +17,7 @@ To provide a single, interactive view of Spotify listening data, focusing on pla
 
 ### Steps followed 
 
-SStep 1 – Load Data from SQL Database
+Step 1 – Load Data from SQL Database
 
 - Used Get Data → SQL Server in Power BI Desktop.
 
